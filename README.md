@@ -2,7 +2,7 @@
 My android studio was not able to run the "design view" hence my buttons are not as neat as they can be, since I change the location of each manually.
 
 ### App Walk-through
-<img src="https://gph.is/2QiyQnn.gif" width=200><br>
+<img src="https://media.giphy.com/media/3dq9EJ424OoU9WdaGu/giphy.gif" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
